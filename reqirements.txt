@@ -5,7 +5,7 @@ langchain==0.2.14
 langchain-community==0.2.12
 langchain-openai==0.1.22
 
-langgraph==0.0.38
+#langgraph==0.0.38
 
 openai==1.40.0
 fpdf==1.7.2
